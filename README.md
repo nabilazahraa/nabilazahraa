@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nabilazahraa
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
