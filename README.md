@@ -68,6 +68,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nabilazahraa/nabilazahraa/output/snake.svg" alt="Snake animation" />
 
 ###
