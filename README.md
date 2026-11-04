@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I am Nabila Zahra, a Computer Science Graduate from Habib University.</p>
+<p align="left">I am Nabila Zahra, an AI engineer who loves to create and build.</p>
 
 ###
 
