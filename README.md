@@ -32,6 +32,7 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG-0077B6?style=flat-square)
 ![Multi--Agent](https://img.shields.io/badge/Multi--Agent_Systems-0B3D91?style=flat-square)
-<sub>Surface interval: scuba diving, trekking, chess, chasing the next idea.</sub>
+
+<sub>Surface interval: trekking, chess, chasing the next idea.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0B3D91&height=120&section=footer&text=Stay%20curious.%20Build%20things%20that%20matter.&fontColor=ffffff&fontSize=20&fontAlignY=70" width="100%" />
