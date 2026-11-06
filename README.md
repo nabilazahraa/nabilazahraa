@@ -20,13 +20,19 @@
 | **-60m** 🐋 | Co-founder of **[The Last Earthlings](https://www.instagram.com/thelastearthlings/)**: people ♥ nature |
 
 ### 🧰 Gear
+### 🧰 Gear
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,aws,azure,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,aws,azure,docker,kubernetes,githubactions,git,linux,vscode&theme=dark&perline=13" />
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-0B3D91?style=flat-square)
-
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-0077B6?style=flat-square)
+![Multi--Agent](https://img.shields.io/badge/Multi--Agent_Systems-0B3D91?style=flat-square)
 <sub>Surface interval: trekking, chess, chasing the next idea.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0B3D91&height=120&section=footer&text=Stay%20curious.%20Build%20things%20that%20matter.&fontColor=ffffff&fontSize=20&fontAlignY=70" width="100%" />
