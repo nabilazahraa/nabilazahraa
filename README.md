@@ -4,9 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00B4D8&center=true&vCenter=true&width=520&lines=building+AI+agents+that+actually+work;diving+deep+(literally+and+technically);next+move%3A+thinking+3+moves+ahead+%E2%99%9F%EF%B8%8F" />
 
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0B3D91?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0077B6?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-00B4D8?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nabilazahra17/"><img src="https://img.shields.io/badge/LinkedIn-0B3D91?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<!-- <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0077B6?style=flat-square&logo=googlechrome&logoColor=white" /></a> -->
+<a href="mailto:nabilazahra1701@gmail.com"><img src="https://img.shields.io/badge/Email-00B4D8?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 </div>
 
