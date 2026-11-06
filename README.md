@@ -1,74 +1,32 @@
-<h2 align="left">Hello World!!</h2>
-
-###
-
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<p align="left">I am Nabila Zahra, an AI engineer who loves to create and build.</p>
-
-###
-
-<h2 align="left">Languages and tools</h2>
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:00B4D8&height=200&section=header&text=Nabila&fontColor=ffffff&fontSize=70&fontAlignY=35&desc=engineer%20·%20builder%20·%20founder&descAlignY=58&animation=fadeIn" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00B4D8&center=true&vCenter=true&width=520&lines=building+AI+agents+that+actually+work;diving+deep+(literally+and+technically);next+move%3A+thinking+3+moves+ahead+%E2%99%9F%EF%B8%8F" />
+
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0B3D91?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0077B6?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-00B4D8?style=flat-square&logo=gmail&logoColor=white" /></a>
+
 </div>
 
-###
+### 🤿 Dive log
 
-<h2 align="left">Github Stats</h2>
+| Depth | |
+|---|---|
+| **0m** 🌊 | Software engineer at the crossroads of AI, engineering, and human creativity |
+| **-10m** 🐠 | Built LLM apps, RAG platforms, multi-agent systems and cloud infra at **Data Science Dojo** and **Careem** |
+| **-30m** 🐙 | Now exploring AI-native engineering and ideas that could become something bigger |
+| **-60m** 🐋 | Co-founder of **[The Last Earthlings](https://www.instagram.com/thelastearthlings/)**: people ♥ nature |
 
-###
+### 🧰 Gear
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabilazahraa&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nabilazahraa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=nabilazahraa&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,aws,azure,docker&theme=dark" />
 
-###
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-0B3D91?style=flat-square)
 
-<h2 align="center">Connect with me</h2>
+<sub>Surface interval: trekking, chess, chasing the next idea.</sub>
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/nabilazahra17/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="instagram.com/wotnebula" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo"  />
-  </a>
-  <a href="youtube.com/@nabilazahra1909" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="55" height="40" alt="youtube logo"  />
-  </a>
-</div>
-
-###
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0B3D91&height=120&section=footer&text=Stay%20curious.%20Build%20things%20that%20matter.&fontColor=ffffff&fontSize=20&fontAlignY=70" width="100%" />
