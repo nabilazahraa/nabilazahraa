@@ -20,7 +20,6 @@
 | **-60m** 🐋 | Co-founder of **[The Last Earthlings](https://www.instagram.com/thelastearthlings/)**: people ♥ nature |
 
 ### 🧰 Gear
-### 🧰 Gear
 
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,aws,azure,docker,kubernetes,githubactions,git,linux,vscode&theme=dark&perline=13" />
 
