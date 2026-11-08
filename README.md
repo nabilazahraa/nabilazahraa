@@ -1,15 +1,26 @@
 <div align="center">
 
+<table>
+<tr>
+<td width="300" align="center" valign="middle">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Nabila Zahra, AI Software Engineer" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/cat-dark.svg">
+  <img src="assets/cat-light.svg" width="300" alt="A cat with a laptop waving and saying: Hi, I'm Nabila!" />
 </picture>
+</td>
+<td align="left" valign="middle">
+
+### Nabila Zahra
 
 <em>Engineer by profession. Builder by curiosity. Founder by ambition.</em>
 
 AI Software Engineer building production agents, multi-agent systems, RAG and LLM applications.
 
 **Open to opportunities:** AI engineering roles · AI product roles · contract work
+
+</td>
+</tr>
+</table>
 
 If you're building something in AI, [let's talk](mailto:nabilazehra1@gmail.com).
 
@@ -43,41 +54,6 @@ If you're building something in AI, [let's talk](mailto:nabilazehra1@gmail.com).
 </details>
 
 <details>
-<summary><strong>Planet collection</strong> — projects</summary>
-<br>
-<table>
-<tr>
-<td width="50%">
-<a href="YOUR_REPO_URL"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/project-restaurant-dark.svg">
-  <img src="assets/project-restaurant-light.svg" width="100%" alt="Restaurant AI Agent" />
-</picture></a>
-</td>
-<td width="50%">
-<a href="YOUR_REPO_URL"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/project-medical-dark.svg">
-  <img src="assets/project-medical-light.svg" width="100%" alt="Medical GPT" />
-</picture></a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/nabilazahraa/Rahguzar-Optimize-Field-Sales-Routes"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/project-rahguzar-dark.svg">
-  <img src="assets/project-rahguzar-light.svg" width="100%" alt="Rahguzar" />
-</picture></a>
-</td>
-<td width="50%">
-<a href="YOUR_REPO_URL"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/project-portfolio-opt-dark.svg">
-  <img src="assets/project-portfolio-opt-light.svg" width="100%" alt="Portfolio Optimization" />
-</picture></a>
-</td>
-</tr>
-</table>
-</details>
-
-<details>
 <summary><strong>Gear</strong> — stack</summary>
 <br>
 <picture>
@@ -96,20 +72,18 @@ If you're building something in AI, [let's talk](mailto:nabilazehra1@gmail.com).
 </details>
 
 <details>
-<summary><strong>Education</strong> · <strong>Off-world</strong></summary>
+<summary><strong>Off-world</strong></summary>
 <br>
 
-- **Habib University** — BS Computer Science, 2025, GPA 3.68
-- **Stanford University** — International Honors Program, 2023
-- Off-world: scuba diving, trekking, ocean exploration, chess
+- Scuba diving, trekking, ocean exploration, chess
 
 </details>
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nabilazahraa/nabilazahraa/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/nabilazahraa/nabilazahraa/output/github-snake.svg" width="100%" alt="Pink contribution snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-card-dark.svg">
+  <img src="assets/stats-card-light.svg" width="100%" alt="GitHub stats: contributions, commits, pull requests and stars" />
 </picture>
 
 </div>

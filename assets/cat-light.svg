@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="260" viewBox="0 0 460 260" role="img" aria-labelledby="t"><title id="t">A cat with a laptop waving and saying: Hi, I'm Nabila!</title>
+<defs><linearGradient id="lid" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF4FA3"/><stop offset="1" stop-color="#E02A80"/></linearGradient>
+<style>text{font-family:ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+.wave{transform-origin:284px 182px;animation:wave 1.4s ease-in-out infinite}
+@keyframes wave{0%,100%{transform:rotate(-16deg)}50%{transform:rotate(18deg)}}
+.tail{transform-origin:170px 232px;animation:tail 3s ease-in-out infinite}
+@keyframes tail{0%,100%{transform:rotate(-6deg)}50%{transform:rotate(8deg)}}
+.blink{transform-origin:230px 118px;animation:blink 4.5s infinite}
+@keyframes blink{0%,94%,100%{transform:scaleY(1)}97%{transform:scaleY(.1)}}
+.bob{animation:bob 3s ease-in-out infinite}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+.tw{animation:tw 2.4s ease-in-out infinite}
+@keyframes tw{0%,100%{opacity:.2}50%{opacity:1}}
+.head{transform-origin:230px 170px;animation:head 3.5s ease-in-out infinite}
+@keyframes head{0%,100%{transform:rotate(-2deg)}50%{transform:rotate(2deg)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style></defs>
+<g class="tail"><path d="M170 232C124 232 108 192 134 168" fill="none" stroke="#4A1E5E" stroke-width="15" stroke-linecap="round"/><path d="M170 232C124 232 108 192 134 168" fill="none" stroke="#2E1040" stroke-width="15" stroke-linecap="round" opacity=".0"/></g>
+<ellipse cx="230" cy="205" rx="64" ry="56" fill="#4A1E5E" stroke="#2E1040" stroke-width="2"/>
+<g class="wave"><path d="M284 182L322 130" stroke="#2E1040" stroke-width="25" stroke-linecap="round"/><path d="M284 182L322 130" stroke="#6B2F82" stroke-width="21" stroke-linecap="round"/><circle cx="323" cy="128" r="4" fill="#FF8DC7"/><circle cx="316" cy="136" r="2.4" fill="#FF8DC7"/><circle cx="330" cy="136" r="2.4" fill="#FF8DC7"/></g>
+<g class="head"><polygon points="184,92 178,46 218,76" fill="#4A1E5E" stroke="#2E1040" stroke-width="2" stroke-linejoin="round"/><polygon points="276,92 282,46 242,76" fill="#4A1E5E" stroke="#2E1040" stroke-width="2" stroke-linejoin="round"/><polygon points="188,84 185,58 207,76" fill="#FF8DC7"/><polygon points="272,84 275,58 253,76" fill="#FF8DC7"/>
+<ellipse cx="230" cy="122" rx="58" ry="49" fill="#4A1E5E" stroke="#2E1040" stroke-width="2"/>
+<ellipse cx="196" cy="136" rx="9" ry="5.5" fill="#FF8DC7" opacity=".45"/><ellipse cx="264" cy="136" rx="9" ry="5.5" fill="#FF8DC7" opacity=".45"/>
+<g class="blink"><ellipse cx="208" cy="118" rx="6.5" ry="8" fill="#FFF3FA"/><ellipse cx="252" cy="118" rx="6.5" ry="8" fill="#FFF3FA"/><circle cx="210" cy="115" r="2.2" fill="#4A1E5E"/><circle cx="254" cy="115" r="2.2" fill="#4A1E5E"/></g>
+<path d="M224 130h12l-6 7z" fill="#FF4FA3"/><path d="M230 137q-6 8-13 3M230 137q6 8 13 3" fill="none" stroke="#FFF3FA" stroke-width="2" stroke-linecap="round"/>
+<path d="M186 130l-26-5M186 136l-27 3M274 130l26-5M274 136l27 3" stroke="#FFD6EC" stroke-width="1.6" stroke-linecap="round"/></g>
+<rect x="168" y="184" width="124" height="54" rx="8" fill="url(#lid)" stroke="#2E1040" stroke-width="2"/><rect x="150" y="236" width="160" height="10" rx="5" fill="#E02A80" stroke="#2E1040" stroke-width="2"/>
+<text x="230" y="219" text-anchor="middle" font-size="22" font-weight="800" fill="#FFF3FA">&lt;/&gt;</text>
+<g class="bob"><path d="M20 40h130a20 20 0 0 1 20 20v14a20 20 0 0 1-20 20H78l-22 20 4-20H20a20 20 0 0 1-20-20V60a20 20 0 0 1 20-20z" transform="translate(6 -4)" fill="#FFFFFF" stroke="#E02A80" stroke-width="2"/><text x="91" y="76" text-anchor="middle" font-size="17" font-weight="800" fill="#4A1238">Hi, I'm Nabila!</text></g>
+<path class="tw" d="M372 70q0 10 10 10q-10 0-10 10q0-10-10-10q10 0 10-10z" fill="#E02A80"/><path class="tw" style="animation-delay:-.8s" d="M410 130q0 7 7 7q-7 0-7 7q0-7-7-7q7 0 7-7z" fill="#E02A80"/><path class="tw" style="animation-delay:-1.6s" d="M360 170q0 6 6 6q-6 0-6 6q0-6-6-6q6 0 6-6z" fill="#E02A80"/><path class="tw" style="animation-delay:-1.2s" d="M60 190q0 6 6 6q-6 0-6 6q0-6-6-6q6 0 6-6z" fill="#E02A80"/>
+</svg>
