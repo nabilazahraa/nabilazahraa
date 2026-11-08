@@ -46,6 +46,13 @@ If you're building something in AI, [let's talk](mailto:nabilazehra1@gmail.com).
   <img src="assets/timeline-light.svg" width="100%" alt="Careem, Data Science Dojo and Salesflo experience timeline" />
 </picture>
 
+### Certifications
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/certs-dark.svg">
+  <img src="assets/certs-light.svg" width="100%" alt="Azure Fundamentals (Microsoft, Feb 2026), Building Scalable Agentic Systems (DataCamp, Feb 2026), Deep Agents (LangChain, May 2025), Ambient Agents with LangGraph (LangChain, May 2026), LangChain for LLM Application Development (DeepLearning.AI, May 2025)" />
+</picture>
+
 ### Tech Stack
 
 <div align="center">
@@ -88,13 +95,6 @@ If you're building something in AI, [let's talk](mailto:nabilazehra1@gmail.com).
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 
 </div>
-
-### Certifications
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/certs-dark.svg">
-  <img src="assets/certs-light.svg" width="100%" alt="Azure Fundamentals (Microsoft, Feb 2026), Building Scalable Agentic Systems (DataCamp, Feb 2026), Deep Agents (LangChain, May 2025), Ambient Agents with LangGraph (LangChain, May 2026), LangChain for LLM Application Development (DeepLearning.AI, May 2025)" />
-</picture>
 
 ### Beyond Work
 
