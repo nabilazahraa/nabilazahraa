@@ -1,27 +1,103 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:00B4D8&height=200&section=header&text=Nabila&fontColor=ffffff&fontSize=70&fontAlignY=35&desc=engineer%20·%20builder%20·%20founder&descAlignY=58&animation=fadeIn" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" width="100%" alt="Nabila Zahra, AI Software Engineer: a small pink planet orbits her name over a twinkling starfield" />
+</picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00B4D8&center=true&vCenter=true&width=520&lines=building+AI+agents+that+actually+work;diving+deep+(literally+and+technically);next+move%3A+thinking+3+moves+ahead+%E2%99%9F%EF%B8%8F" />
-
-<a href="https://www.linkedin.com/in/nabilazahra17/"><img src="https://img.shields.io/badge/LinkedIn-0B3D91?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:nabilazahra1701@gmail.com"><img src="https://img.shields.io/badge/Email-00B4D8?style=flat-square&logo=gmail&logoColor=white" /></a>
-<!-- <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0077B6?style=flat-square&logo=googlechrome&logoColor=white" /></a> -->
+<em>Engineer by profession. Builder by curiosity. Founder by ambition.</em>
 
 </div>
 
-### 🤿 Dive log
+AI Engineer building production systems at the frontier of intelligent software.
 
-| Depth | |
-|---|---|
-| **0m** 🌊 | Software engineer at the crossroads of AI, engineering, and human creativity |
-| **-10m** 🐠 | Built LLM apps, RAG platforms, multi-agent systems and cloud infra at **Data Science Dojo** and **Careem** |
-| **-30m** 🐙 | Now exploring AI-native engineering and ideas that could become something bigger |
-| **-60m** 🐋 | Co-founder of **[The Last Earthlings](https://www.instagram.com/thelastearthlings/)**: people ♥ nature |
+Working with autonomous agents, multi-agent systems, LLM architectures, RAG, and distributed applications.
 
-### 🧰 Gear
+Driven by curiosity, systems thinking, and the challenge of making emerging technology genuinely useful.
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,aws,azure,docker,kubernetes,githubactions,git,linux,vscode&theme=dark&perline=13" />
+
+<div align="center">
+
+### Connect
+
+<a href="https://linkedin.com/in/nabilazahraa">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg">
+    <img src="assets/btn-linkedin-light.svg" width="168" height="46" alt="LinkedIn profile link" />
+  </picture>
+</a>
+<a href="mailto:nabilazehra1@gmail.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg">
+    <img src="assets/btn-email-light.svg" width="168" height="46" alt="Send me an email" />
+  </picture>
+</a>
+
+</div>
+
+<div align="center">
+
+### Engineering impact
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img src="assets/stats-light.svg" width="100%" alt="Highlights: about 40 percent lower API latency, about 40 percent faster document indexing, 20 plus agents shipped, 3 production AI roles" />
+</picture>
+
+</div>
+
+## Flight path
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg">
+  <img src="assets/timeline-light.svg" width="100%" alt="Experience timeline, newest first: Careem AI Software Engineer Apr 2026 to Sep 2026; Data Science Dojo Associate GenAI Software Engineer Jun 2025 to Mar 2026; Salesflo Software Engineer Sep 2024 to May 2025" />
+</picture>
+
+## Planet collection
+
+<table>
+<tr>
+<td width="50%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-restaurant-dark.svg">
+  <img src="assets/project-restaurant-light.svg" width="100%" alt="Restaurant AI Agent: AI ordering agent on AWS Bedrock AgentCore with async processing and agent orchestration" />
+</picture>
+<div align="center"><a href="YOUR_REPO_URL">Repository →</a></div>
+</td>
+<td width="50%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-medical-dark.svg">
+  <img src="assets/project-medical-light.svg" width="100%" alt="Medical GPT: real-time medical question answering using RAG and safety guardrails" />
+</picture>
+<div align="center"><a href="YOUR_REPO_URL">Repository →</a></div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-rahguzar-dark.svg">
+  <img src="assets/project-rahguzar-light.svg" width="100%" alt="Rahguzar: intelligent FMCG permanent journey plan optimization platform combining geographic clustering, evolutionary scheduling and route optimization" />
+</picture>
+<div align="center"><a href="https://github.com/nabilazahraa/Rahguzar-Optimize-Field-Sales-Routes">Repository →</a></div>
+</td>
+<td width="50%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-portfolio-opt-dark.svg">
+  <img src="assets/project-portfolio-opt-light.svg" width="100%" alt="Portfolio Optimization project card, details to be added" />
+</picture>
+<div align="center"><a href="YOUR_REPO_URL">Repository →</a></div>
+</td>
+</tr>
+</table>
+
+## Gear: constellation map
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/constellation-dark.svg">
+  <img src="assets/constellation-light.svg" width="100%" alt="Technology constellations grouped into AI and Agents, Machine Learning, Backend and Engineering, and Cloud and DevOps" />
+</picture>
+
+**AI and LLM stack**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -33,6 +109,45 @@
 ![RAG](https://img.shields.io/badge/RAG-0077B6?style=flat-square)
 ![Multi--Agent](https://img.shields.io/badge/Multi--Agent_Systems-0B3D91?style=flat-square)
 
-<sub>Surface interval: trekking, chess, chasing the next idea.</sub>
+## Mission patches
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0B3D91&height=120&section=footer&text=Stay%20curious.%20Build%20things%20that%20matter.&fontColor=ffffff&fontSize=20&fontAlignY=70" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/patches-dark.svg">
+  <img src="assets/patches-light.svg" width="100%" alt="Certifications: Microsoft Azure Fundamentals AZ-900, Deep Agents by LangChain, Building Scalable Agentic Systems by DataCamp" />
+</picture>
+
+<details>
+<summary><strong>Off-world</strong></summary>
+<br>
+
+- 🤿 Scuba diving
+- 🥾 Trekking and mountaineering
+- 🐋 Ocean exploration
+- ♟️ Chess
+
+</details>
+
+<details>
+<summary><strong>Education</strong></summary>
+<br>
+
+- **Habib University** — BS Computer Science, 2025, GPA 3.68
+- **Stanford University** — International Honors Program, 2023
+
+</details>
+
+## Contribution galaxy
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nabilazahraa/nabilazahraa/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/nabilazahraa/nabilazahraa/output/github-snake.svg" width="100%" alt="Animated pink snake eating through my GitHub contribution graph" />
+</picture>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <img src="assets/footer-light.svg" width="100%" alt="A fading starfield footer with the words: Stay curious. Keep experimenting. Build things that matter." />
+</picture>
+
+</div>
