@@ -28,29 +28,25 @@ If you're building something in AI, [let's talk](mailto:nabilazehra1@gmail.com).
 
 </div>
 
-<sub><em>Click a section below to expand it.</em></sub>
+<sub><em>Click to expand.</em></sub>
 
 <details>
-<summary>🔹 <strong>Impact</strong></summary>
+<summary>🔹 <strong>More about me</strong></summary>
 <br>
+
+### Impact
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
   <img src="assets/stats-light.svg" width="100%" alt="About 40% lower API latency, about 40% faster indexing, 20+ agents shipped, 3 production AI roles" />
 </picture>
-</details>
 
-<details>
-<summary>🔹 <strong>Experience</strong></summary>
-<br>
+### Experience
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg">
   <img src="assets/timeline-light.svg" width="100%" alt="Careem, Data Science Dojo and Salesflo experience timeline" />
 </picture>
-</details>
 
-<details>
-<summary>🔹 <strong>Tech Stack</strong></summary>
-<br>
+### Tech Stack
 
 <div align="center">
 
@@ -93,24 +89,15 @@ If you're building something in AI, [let's talk](mailto:nabilazehra1@gmail.com).
 
 </div>
 
-</details>
-
-<details>
-<summary>🔹 <strong>Certifications</strong></summary>
-<br>
+### Certifications
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/certs-dark.svg">
   <img src="assets/certs-light.svg" width="100%" alt="Azure Fundamentals (Microsoft, Feb 2026), Building Scalable Agentic Systems (DataCamp, Feb 2026), Deep Agents (LangChain, May 2025), Ambient Agents with LangGraph (LangChain, May 2026), LangChain for LLM Application Development (DeepLearning.AI, May 2025)" />
 </picture>
-</details>
 
-<details>
-<summary>🔹 <strong>Beyond Work</strong></summary>
-<br>
+### Beyond Work
 
 - You'll find me Scuba diving, trekking, exploring the ocean and playing chess
 
 </details>
-
-
