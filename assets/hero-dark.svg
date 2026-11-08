@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="370" viewBox="0 0 900 370" role="img" aria-labelledby="t"><title id="t">Nabila Zahra, AI Software Engineer: a small pink planet orbits her name over a twinkling starfield</title><defs><linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1"><stop offset="0" stop-color="#0B0614"/><stop offset="1" stop-color="#1A0B2E"/></linearGradient>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="370" viewBox="0 0 900 370" role="img" aria-labelledby="t"><title id="t">Nabila Zahra, AI Software Engineer. Beyond the Known. Curious about what's possible. Driven to build it. Let's talk.</title><defs><linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1"><stop offset="0" stop-color="#0B0614"/><stop offset="1" stop-color="#1A0B2E"/></linearGradient>
 <clipPath id="clip"><rect width="900" height="370" rx="18"/></clipPath>
 <radialGradient id="n0"><stop offset="0" stop-color="#FF4FA3" stop-opacity="0.2"/><stop offset="1" stop-color="#FF4FA3" stop-opacity="0"/></radialGradient><radialGradient id="n1"><stop offset="0" stop-color="#FF8DC7" stop-opacity="0.11"/><stop offset="1" stop-color="#FF8DC7" stop-opacity="0"/></radialGradient><radialGradient id="n2"><stop offset="0" stop-color="#FF4FA3" stop-opacity="0.13"/><stop offset="1" stop-color="#FF4FA3" stop-opacity="0"/></radialGradient>
 <radialGradient id="halo"><stop offset="0" stop-color="#FF4FA3" stop-opacity="0.45"/><stop offset="1" stop-color="#FF4FA3" stop-opacity="0"/></radialGradient>
@@ -25,11 +25,12 @@
 <circle cx="815" cy="345" r="112.2" fill="url(#halo)"/><g transform="rotate(-18 815 345)"><path d="M696.2,345A118.8,25.1 0 0 1 933.8,345" fill="none" stroke="#FF8DC7" stroke-width="4.7" opacity=".55"/></g><circle cx="815" cy="345" r="66" fill="url(#pl)"/><g transform="rotate(-18 815 345)"><path d="M696.2,345A118.8,25.1 0 0 0 933.8,345" fill="none" stroke="#FF8DC7" stroke-width="4.7" opacity=".9"/></g>
 <circle cx="88" cy="300" r="11" fill="url(#plv)"/>
 <g transform="rotate(-7 450 170)"><ellipse cx="450" cy="170" rx="315" ry="60" fill="none" stroke="#FF8DC7" stroke-opacity=".38" stroke-dasharray="2 8" stroke-linecap="round"/></g>
-<text x="450" y="112" text-anchor="middle" font-size="12.5" letter-spacing="5" fill="#FF8DC7" font-weight="600">AI SOFTWARE ENGINEER  ·  CO-FOUNDER</text>
-<text x="450" y="196" text-anchor="middle" font-size="68" font-weight="800" letter-spacing="3" fill="url(#nameG)" filter="url(#b6)" class="pulse" opacity=".6" style="animation-duration:7s">Nabila Zahra</text>
-<text x="450" y="196" text-anchor="middle" font-size="68" font-weight="800" letter-spacing="3" fill="url(#nameG)">Nabila Zahra</text>
-<text x="450" y="268" text-anchor="middle" font-size="18" fill="#FFE9F5"><tspan fill="#FF4FA3" font-weight="700">Engineer</tspan> by profession. <tspan fill="#FF4FA3" font-weight="700">Builder</tspan> by curiosity. <tspan fill="#FF4FA3" font-weight="700">Founder</tspan> by ambition.</text>
-<text x="450" y="306" text-anchor="middle" font-size="13" letter-spacing="1" fill="#D9A9CB">production AI agents  ·  multi-agent systems  ·  RAG  ·  LLM apps</text>
+<text x="450" y="112" text-anchor="middle" font-size="12.5" letter-spacing="5" fill="#FF8DC7" font-weight="600">NABILA ZAHRA  ·  AI SOFTWARE ENGINEER</text>
+<text x="450" y="196" text-anchor="middle" font-size="68" font-weight="800" letter-spacing="3" fill="url(#nameG)" filter="url(#b6)" class="pulse" opacity=".6" style="animation-duration:7s">Beyond the Known.</text>
+<text x="450" y="196" text-anchor="middle" font-size="68" font-weight="800" letter-spacing="3" fill="url(#nameG)">Beyond the Known.</text>
+<text x="450" y="268" text-anchor="middle" font-size="18" fill="#FFE9F5">Curious about what's possible. Driven to build it.</text>
+<text x="450" y="306" text-anchor="middle" font-size="13" letter-spacing="1" fill="#D9A9CB">AI Engineering  ·  Intelligent Systems  ·  Exploration</text>
+<text x="450" y="342" text-anchor="middle" font-size="15" letter-spacing="3" fill="#FF4FA3" font-weight="700">LET'S TALK  →</text>
 <g transform="rotate(-7 450 170)"><g>
 <animateMotion dur="30s" repeatCount="indefinite" path="M135,170A315,60 0 1 1 765,170A315,60 0 1 1 135,170"/>
 <circle cx="0" cy="0" r="17" fill="url(#halo)"/><g transform="rotate(-25 0 0)"><path d="M-18,0A18,3.8 0 0 1 18,0" fill="none" stroke="#FF8DC7" stroke-width="1" opacity=".55"/></g><circle cx="0" cy="0" r="10" fill="url(#pl)"/><g transform="rotate(-25 0 0)"><path d="M-18,0A18,3.8 0 0 0 18,0" fill="none" stroke="#FF8DC7" stroke-width="1" opacity=".9"/></g></g></g></g><rect x=".5" y=".5" width="899" height="369" rx="18" fill="none" stroke="rgba(255,141,199,0.30)"/></svg>

@@ -1,26 +1,11 @@
 <div align="center">
 
-<table>
-<tr>
-<td width="300" align="center" valign="middle">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/cat-dark.svg">
-  <img src="assets/cat-light.svg" width="300" alt="A cat with a laptop waving and saying: Hi, I'm Nabila!" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" width="100%" alt="Nabila Zahra, AI Software Engineer. Beyond the Known. Let's talk." />
 </picture>
-</td>
-<td align="left" valign="middle">
-
-### Nabila Zahra
-
-<em>Engineer by profession. Builder by curiosity. Founder by ambition.</em>
-
-AI Software Engineer building production agents, multi-agent systems, RAG and LLM applications.
 
 **Open to opportunities:** AI engineering roles · AI product roles · contract work
-
-</td>
-</tr>
-</table>
 
 If you're building something in AI, [let's talk](mailto:nabilazehra1@gmail.com).
 
@@ -79,11 +64,4 @@ If you're building something in AI, [let's talk](mailto:nabilazehra1@gmail.com).
 
 </details>
 
-<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-card-dark.svg">
-  <img src="assets/stats-card-light.svg" width="100%" alt="GitHub stats: contributions, commits, pull requests and stars" />
-</picture>
-
-</div>
