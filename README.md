@@ -31,7 +31,7 @@ If you're building something in AI, [let's talk](mailto:nabilazehra1@gmail.com).
 <sub><em>Click a section below to expand it.</em></sub>
 
 <details>
-<summary><img src="https://img.shields.io/badge/Impact-1F4E8C?style=flat-square" alt="Impact" /></summary>
+<summary>🔹 <strong>Impact</strong></summary>
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
@@ -40,7 +40,7 @@ If you're building something in AI, [let's talk](mailto:nabilazehra1@gmail.com).
 </details>
 
 <details>
-<summary><img src="https://img.shields.io/badge/Experience-1F4E8C?style=flat-square" alt="Experience" /></summary>
+<summary>🔹 <strong>Experience</strong></summary>
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg">
@@ -49,7 +49,7 @@ If you're building something in AI, [let's talk](mailto:nabilazehra1@gmail.com).
 </details>
 
 <details>
-<summary><img src="https://img.shields.io/badge/Tech_Stack-1F4E8C?style=flat-square" alt="Tech Stack" /></summary>
+<summary>🔹 <strong>Tech Stack</strong></summary>
 <br>
 
 <div align="center">
@@ -96,7 +96,7 @@ If you're building something in AI, [let's talk](mailto:nabilazehra1@gmail.com).
 </details>
 
 <details>
-<summary><img src="https://img.shields.io/badge/Certifications-1F4E8C?style=flat-square" alt="Certifications" /></summary>
+<summary>🔹 <strong>Certifications</strong></summary>
 <br>
 
 <picture>
@@ -106,7 +106,7 @@ If you're building something in AI, [let's talk](mailto:nabilazehra1@gmail.com).
 </details>
 
 <details>
-<summary><img src="https://img.shields.io/badge/Beyond_Work-1F4E8C?style=flat-square" alt="Beyond Work" /></summary>
+<summary>🔹 <strong>Beyond Work</strong></summary>
 <br>
 
 - You'll find me Scuba diving, trekking, exploring the ocean and playing chess
