@@ -9,7 +9,11 @@
 
 AI Software Engineer building production agents, multi-agent systems, RAG and LLM applications.
 
-<a href="https://linkedin.com/in/nabilazahraa">
+**Open to opportunities:** AI engineering roles · AI product roles · contract work
+
+If you're building something in AI, [let's talk](mailto:nabilazehra1@gmail.com).
+
+<a href="https://linkedin.com/in/nabilazahra17">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg">
     <img src="assets/btn-linkedin-light.svg" width="168" height="46" alt="LinkedIn" />
